@@ -5,8 +5,4 @@ def uppercase(str):
         if 'a' <= char <= 'z':
             char = chr(ord(char) - 32)
         print("{}".format(char), end="")
-    print()  # Print a new line at the end
-
-uppercase("best")
-uppercase("Best School 98 Battery street")
-uppercase("holberton")
+    print()  # Print a new line at this
