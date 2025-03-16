@@ -8,7 +8,7 @@ def read_file(filename=""):
     """Reads a UTF-8 text file and prints its content to stdout.
 
     Args:
-        filename (str): The name of the file to read. Defaults to an empty string.
+        filename (str): The name of the file to read.
 
     Returns:
         None
